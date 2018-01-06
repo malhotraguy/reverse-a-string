@@ -4,5 +4,4 @@ reverse_string=""
 while string:
     reverse_string+=str(string.pop())
 
-#reverse_string=str(reverse_string)
 print("\n",reverse_string)
